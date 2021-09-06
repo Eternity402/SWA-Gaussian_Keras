@@ -1,8 +1,12 @@
 > This repo is for keras version application of the paper,  
-> "A Simple Baseline for Bayesian Uncertainty in Deep Learning" (Maddox et al., 2019).
+> "A Simple Baseline for Bayesian Uncertainty in Deep Learning" (Maddox et al., 2019).  
+> https://ajlab402.blogspot.com/2021/08/pr402-6-loss-surface-simplexes-for-mode.html
 > 
 > Just to get some basic concepts of the SWA-Gaussian, I brought a simple model from keras tutorial, and changed it a little bit.  
 > Link : https://www.tensorflow.org/tutorials/images/cnn?hl=ko
+> 
+> CIFAR100 dataset is used to test the performance of SWAG.
+> Also you can compare with SWA.
 
 
 # SWAG Keras_application.py
