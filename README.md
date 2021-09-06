@@ -9,5 +9,5 @@
 ## This is just an application of the alogrithm below:
 
 ***
-![algorithm](./image/Algorithm.jpg)
+![Algorithm](https://user-images.githubusercontent.com/35181972/132224229-ec62c1fa-8ac5-4a1a-a94d-de31ba3dfcc5.JPG)
 
