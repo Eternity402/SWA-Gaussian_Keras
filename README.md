@@ -6,6 +6,7 @@
 
 # SWAG Keras_application.py
 > It contains all of the code.
+> 
 > This is just an application of the alogrithm below:
 
 ***
