@@ -17,7 +17,7 @@
 ![Algorithm](https://user-images.githubusercontent.com/35181972/132224229-ec62c1fa-8ac5-4a1a-a94d-de31ba3dfcc5.JPG)
 
 ***
-> Training history is as below:
+> Training history is as below:  
 > The y-axis is validation accuracy.
 
 ![0907](https://user-images.githubusercontent.com/35181972/132279669-fc27e0a7-de43-4849-8124-9f955f14a5e1.JPG)
